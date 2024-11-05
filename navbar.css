@@ -1,0 +1,25 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #000000;
+    padding: 6px;
+    text-align: left;
+}
+th {
+    background-color: #7ac8ff;
+}
+
+#font {
+    font-family: "Oswald", sans-serif;
+}
